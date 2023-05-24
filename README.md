@@ -61,13 +61,3 @@
   
 	m) Modifica adresa de email a unui membru.
 	
-### Interogari
-	a) Vizualizare membrii inregistrati
-	
-	b) Vizualizare carti
-	
-	c) Afisare imprumuturi
-	
-	d) Afiseaza toate imprumuturile unui membru
-	
-	e) Afiseaza lista de autori
